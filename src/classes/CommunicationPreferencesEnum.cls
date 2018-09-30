@@ -1,0 +1,1 @@
+public enum CommunicationPreferencesEnum {CATEGORY, TOPIC, HISTORY, CUSTOMER_PREFERENCES}
