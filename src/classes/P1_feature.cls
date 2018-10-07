@@ -9,4 +9,8 @@ public class P1_feature {
                 Name = name
         );
     }
+
+    public void createAccount(Account account) {
+        insert account;
+    }
 }
